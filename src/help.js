@@ -5,20 +5,18 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
-__█▼▼▼▼▼█ 
-_██ᏴϴͲ Ꮩ1.0██▌ 
-__█▲▲▲▲▲█ 
-__█████████ 
+__█▄█████▄█   *DONO*    : Paulo.H
+__█▼▼▼▼▼█
+_██ᏴϴͲ Ꮩ1.0██▌ By. Skyhiro 3.0
+__█▲▲▲▲▲█ 
+__█████████ 
 ____██_____██
 
 ┌─────────❶.❷────────
 
 🧐 *informações*
   🐊 Prefix: 「  ${prefix}  」
-  🐊 Criador : CAUSS (base toin) 
-  🐊 Canal do criador: https://youtube.com/channel/UCpB3qh2Sp3K23s9a2Q-Gf-g
-  🐊 *Parcerias*: ${prefix}parceria
+  🐊 Editor : Paulo.H(base toin) 
 🧐 *SOBRE*
   │
   ├─ 🐊 ${prefix}info
@@ -142,7 +140,7 @@ ____██_____██
   ├─ 🐊 ${prefix}infogempa
   ├─ 🐊 ${prefix}jadwaltvnow
   └─ 🐊 ${prefix}covid
-🧐 *COMANDOS DO CAUSS*
+🧐 *COMANDOS DO SKYHIRO*
   │
   ├─ 🐊 ${prefix}setprefix
   ├─ 🐊 ${prefix}block
